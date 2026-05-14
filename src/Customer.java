@@ -69,4 +69,5 @@ public class Customer {
         return "Số CMND: " + idNumber + ". Họ tên: " + fullName + ".";
     }
     public void bad_method(){System.out.println("bad");}
+    public void xxx(){System.out.println("xxx");}
 }
